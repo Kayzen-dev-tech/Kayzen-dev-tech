@@ -3,7 +3,7 @@
 # Halo, Saya Kayzen Izumi 👋  
 ### Selamat datang di profil GitHub saya! 🚀
 
-<img src="profile.jpg" alt="Foto Profil Saya" width="200" style="border-radius: 50%;" />
+<img src="https://github.com/account" alt="Foto Profil Saya" width="200" style="border-radius: 50%;" />
 
 <br/><br/>
 
