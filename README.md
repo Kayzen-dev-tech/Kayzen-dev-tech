@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://files.catbox.moe/v86fm1.jpg" width="25%" align="right" />
+<img src="https://i.pinimg.com/736x/a1/18/2e/a1182e099889b27b0e99874c5a976716.jpg" width="25%" align="right" />
 <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=true&random=false&width=1300&lines=Hello%2C+I'm+Naruya+Izumi;There's+nothing+to+explain;I+like+what+I+like+%3Av" width="70%" />
 <br><br>
 <pre>
