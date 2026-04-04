@@ -53,7 +53,7 @@
         project: "kayzenDB",
         type: "just fun",
         status: "active (when motivated)",
-        stack: ["python", "aes-256-gcm", "pbkdf2", "wal+atomatic", "crc32", "checksuns", "doocker&railway']
+        stack: ["python", "aes-256-gcm", "pbkdf2", "wal+atomatic", "crc32", "checksuns", "doocker&railway"]
     };
 
     console.log("Error: Something went wrong");
